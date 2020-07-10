@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chadutils",
+  "private_key_id": "6f30159caaf4adbcb2d01da9b795dbb229bc8982",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDAgPEWf7SZmbCh\npagAMiK0hhBAO+jpq/vU4KU7aqi6MO9UmtoQXKxxwQ/ltf01HdeyMUwMI56W1gLi\nTMhyqdxlgpKJy8t3OX/CXYzkwDZ/tX2mnVzJNYqOm1Thv1/uuRqJ2GWuFYjpy5Mj\nKvhoCub9jGLG4SeVcV4n5bJnnKyh3MnbRgR5DMxsohHG1jjB17TZvU6x/jsNOD5O\nDzWOWjMvZpoGWsAVNEspVWjW2oNqQiJIdtXYAHxA0EPLQtzG2Pbjs+ehBrgjQAOu\n0pBsHndDKFMNmyNPxGRBxuEVyTKuz/W/L2F20qRpQDPpUOTE0f+mDJqol56jYkSz\nR5k4wd3TAgMBAAECggEAMh9gpqMJuxSxUOV5INPtBWQCxzbSJkWJhJwZaacT16b2\nKelH7gqzO8sxAHaqPzJN/y+mxWJg4JVImvOzHWfs4uFklkxh5eEqysjg7o69ofL3\njHJcvmcadJctOrpBmD7KEiouD228AGPpI7cEhtKP4mSzM2VckSS7h1ffY+r/aAVJ\nPPAW8mOeQe4Ugv/fjH/5uLcV/lM8xEsF/JXSDf8HVFj8xZoMf3G7tkOno8J9c782\nHujBGxmdcdu5TPankNatSPenRRdpupI6SwYk9jKYdbdp2ebNxpvDi6Yq294ThUhN\nGvOW/UIxvVoYLNwl86HT6Yf5ITt61dF9bRd77qADwQKBgQDl8VFaiy94sox6S9MG\nthCnTCPPp2Gp/duMcN5FM8A7bC+2arPWq8XjwC/1bcmR0+dn9S0NSWdr7lW0tV2y\nDE0gqBm/iZaZe3d/yC5LO659XY1EFdsrZcuttcVQEnwFkZlQWS+oa1bAurEGVjtf\naVF6fe9eojKSv0SVik2ZB391VwKBgQDWUYMRWR9ym8ZIXzjs+Di8xSf6VuzQE6+X\n8iMoObM2Pd5rIV7ed71y7ryV/A6lKW1sOKkytz5SR8eQRoDiH/0K7SflK4A4T0Uk\nSYfTd2AIp47Sstlqz4tX+x4nPu/PkbG/37AAUsHgFo7a5bZNysNB5VNSsMCPSsmA\nnTN5cJHx5QKBgAqhi5daFAnKh4An/Uu0IzT46jbxkCxh1kK5/SzJ5btZlyMh78qf\nCnkrK4x3VPhvCaXeygRxPlzZGhFOyVQwCWjXHMmkPNg/wxifUrSbv8eACcX6FLX+\n8NnJK6Q2FpHTV3lFhlSNEee7OfAHEJuqrN+y7tw7N4ddXHhleoz2scflAoGARtru\nDTc82WQ82sJ4jIfIIkjAXdiNNIG9pOuNygfBgyZTOXHv7ncB8FSTjrallN8saQIW\nlkjU1tkaVk2o4JmYzBr5/J80Jem3Pzb8K+KkolfbNTeh/9kcBXtlTa5WFHbjoD7w\n7jpuFIsAscgOTIvDoC6ULJt5HiaoldfjI7we1C0CgYAV4K3iJY1H83cnMayyzGbO\ncAhS8yzBN140fsSiT2sa0dSrTjxXVqf0ubNslZh58Z4hrNRCMx5rCy9DQzM4G7BF\nXn0fy9nvd2AZC2ik2N6U+IRbh7GUbbPWR2HQv3ux4eBIOMY0nIqI33pcxNRZkEBo\ng5QYgtl0uaR2cfs3z/54yw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "serviceaccountchadutils@chadutils.iam.gserviceaccount.com",
+  "client_id": "105133276397367275287",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/serviceaccountchadutils%40chadutils.iam.gserviceaccount.com"
+}
